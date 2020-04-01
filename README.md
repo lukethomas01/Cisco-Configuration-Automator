@@ -6,7 +6,7 @@
 * Licensed under the GNU General Public License v3.0    *
 * ----------------------------------------------------- *
 
-This program is used to make global configuration changes the Cisco ISO. 
+This program is used to make global configuration changes to Cisco ISO. 
 
-The program uses a host file and configuration file to detect and then correct devices that contain missing polices or  common errors. 
+The Cisco Global Configuration Automator requires a local host file and a local configuration file to use for detection and then correction of missing polices or common errors.
 
