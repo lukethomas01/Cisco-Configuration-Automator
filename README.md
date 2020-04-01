@@ -1,10 +1,10 @@
-# ------------------------------------------------------#
-# Python program - Cisco Global Configuration Automator #
-# Author: Luke Thomas                                   #
-# Date: 15 February 2020                                #
-# Copyright (C) 2020                                    #
-# Licensed under the GNU General Public License v3.0    #
-# ------------------------------------------------------#
+* ----------------------------------------------------- *
+* Python program - Cisco Global Configuration Automator *
+* Author: Luke Thomas                                   *
+* Date: 15 February 2020                                *
+* Copyright (C) 2020                                    *
+* Licensed under the GNU General Public License v3.0    *
+* ----------------------------------------------------- *
 
 This program is used to make global configuration changes the Cisco ISO. 
 
