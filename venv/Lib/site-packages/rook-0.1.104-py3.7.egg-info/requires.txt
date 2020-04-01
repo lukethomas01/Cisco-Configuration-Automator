@@ -1,0 +1,9 @@
+six>=1.11
+protobuf<=4.0.0,>=3.7.1
+websocket-client>=0.56.0
+certifi
+
+[ssl_backport]
+backports.ssl
+backports.ssl_match_hostname
+PyOpenSSL
