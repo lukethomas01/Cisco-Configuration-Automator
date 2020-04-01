@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------------------------------------------------------
-# Python program Cisco IOS configuration changes
+# Python program - Cisco Global Configuration Automator
 # Author: Luke Thomas
 # Date: 15 February 2020
 # ----------------------------------------------------------------------------------------------------------------
