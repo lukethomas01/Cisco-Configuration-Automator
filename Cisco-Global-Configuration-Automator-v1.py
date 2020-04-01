@@ -1,8 +1,10 @@
-# ----------------------------------------------------------------------------------------------------------------
-# Python program - Cisco Global Configuration Automator
-# Author: Luke Thomas
-# Date: 15 February 2020
-# ----------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------#
+# Python program - Cisco Global Configuration Automator #
+# Author: Luke Thomas                                   #
+# Date: 15 February 2020                                #
+# Copyright (C) 2020                                    #
+# Licensed under the GNU General Public License v3.0    #
+# ------------------------------------------------------#
 #
 # List of import modules
 #
@@ -19,7 +21,6 @@ startTime = datetime.now()
 #
 # List of variables
 #
-# Hostfile = "hosts.txt"
 Hostfile = tkinter.filedialog.askopenfilename(title="Please Select Host File", filetypes=(("text files", "*.txt"), ("csv files", "*.csv"), ("all files", "*.*")))
 configfile = tkinter.filedialog.askopenfilename(title="Please Select Configuration File", filetypes=(("text files", "*.txt"), ("config files", "*.conf"), ("all files", "*.*")))
 Error_Log = "Error_Log.txt"
