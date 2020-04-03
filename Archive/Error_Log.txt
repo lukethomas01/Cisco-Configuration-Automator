@@ -1,0 +1,120 @@
+ERROR -  10.35.254.69: Timed-out reading channel, data not available.: 
+ERROR -  10.35.254.70: Timed-out reading channel, data not available.: 
+ERROR -  10.35.254.69: Timed-out reading channel, data not available.: 
+ERROR -  10.35.254.70: Timed-out reading channel, data not available.: 
+ERROR -  10.35.254.69: Authentication failure: unable to connect cisco_ios 10.35.254.69:22
+Authentication failed.: 
+ERROR -  10.35.254.70: Authentication failure: unable to connect cisco_ios 10.35.254.70:22
+Authentication failed.: 
+ERROR -  10.35.254.69: Authentication failure: unable to connect cisco_ios 10.35.254.69:22
+Authentication failed.: 
+ERROR -  10.35.254.70: Authentication failure: unable to connect cisco_ios 10.35.254.70:22
+Authentication failed.: 
+ERROR -  10.35.254.69: Timed-out reading channel, data not available.: 
+ERROR -  10.35.254.70: Timed-out reading channel, data not available.: 
+ERROR -  10.35.254.69: Connection to device timed-out: cisco_ios 10.35.254.69:22: 
+ERROR -  10.35.254.70: Connection to device timed-out: cisco_ios 10.35.254.70:22: 
+ERROR -  192.168.1.100: Connection to device timed-out: cisco_ios 192.168.1.100:22: 
+ERROR -  192.168.1.101: Connection to device timed-out: cisco_ios 192.168.1.101:22: 
+ERROR -  192.168.1.102: Connection to device timed-out: cisco_ios 192.168.1.102:22: 
+ERROR -  192.168.1.103: Connection to device timed-out: cisco_ios 192.168.1.103:22: 
+ERROR -  192.168.1.104: Connection to device timed-out: cisco_ios 192.168.1.104:22: 
+ERROR -  192.168.1.105: Connection to device timed-out: cisco_ios 192.168.1.105:22: 
+ERROR -  192.168.1.106: Connection to device timed-out: cisco_ios 192.168.1.106:22: 
+ERROR -  192.168.1.107: Connection to device timed-out: cisco_ios 192.168.1.107:22: 
+ERROR -  192.168.1.108: Connection to device timed-out: cisco_ios 192.168.1.108:22: 
+ERROR -  192.168.1.109: Connection to device timed-out: cisco_ios 192.168.1.109:22: 
+ERROR -  192.168.1.110: Connection to device timed-out: cisco_ios 192.168.1.110:22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  
+: Connection to device timed-out: cisco_ios :22: 
+ERROR -  ntp server 85.199.214.222 prefer
+: Connection to device timed-out: cisco_ios ntp server 85.199.214.222 prefer:22: 
+ERROR -  ntp server 85.199.214.221
+: Connection to device timed-out: cisco_ios ntp server 85.199.214.221:22: 
+ERROR -  ntp server 8.8.8.8
+: Connection to device timed-out: cisco_ios ntp server 8.8.8.8:22: 
+ERROR -  10.35.254.69
+: name 'configlist' is not defined: 
+ERROR -  10.35.254.70: name 'configlist' is not defined: 
+ERROR -  10.35.254.69
+: 'in <string>' requires string as left operand, not list: 
+ERROR -  10.35.254.70: 'in <string>' requires string as left operand, not list: 
+ERROR -  10.35.254.69
+: 'in <string>' requires string as left operand, not list: 
+ERROR -  10.35.254.70: 'in <string>' requires string as left operand, not list: 
+ERROR -  10.35.254.69
+: 'in <string>' requires string as left operand, not list: 
+ERROR -  10.35.254.70: 'in <string>' requires string as left operand, not list: 
+ERROR -  10.35.254.69
+: 'in <string>' requires string as left operand, not list: 
+ERROR -  10.35.254.70: 'in <string>' requires string as left operand, not list: 
+ERROR -  10.35.254.69
+: 'in <string>' requires string as left operand, not list: 
+ERROR -  10.35.254.70: 'in <string>' requires string as left operand, not list: 
+ERROR -  10.35.254.69
+: isinstance expected 2 arguments, got 1: 
+ERROR -  10.35.254.70: isinstance expected 2 arguments, got 1: 
+ERROR -  10.35.254.69
+: isinstance() arg 2 must be a type or tuple of types: 
+ERROR -  10.35.254.70: isinstance() arg 2 must be a type or tuple of types: 
+ERROR -  10.35.254.69
+: 'in <string>' requires string as left operand, not bool: 
+ERROR -  10.35.254.70: 'in <string>' requires string as left operand, not bool: 
+ERROR -  10.35.254.69
+: 'in <string>' requires string as left operand, not bool: 
+ERROR -  10.35.254.70: 'in <string>' requires string as left operand, not bool: 
+ERROR -  10.35.254.69
+: type() takes 1 or 3 arguments: 
+ERROR -  10.35.254.70: type() takes 1 or 3 arguments: 
+ERROR -  10.35.254.69
+: type() takes 1 or 3 arguments: 
+ERROR -  10.35.254.70: type() takes 1 or 3 arguments: 
+ERROR -  10.35.254.69
+: 'in <string>' requires string as left operand, not tuple: 
+ERROR -  10.35.254.70: 'in <string>' requires string as left operand, not tuple: 

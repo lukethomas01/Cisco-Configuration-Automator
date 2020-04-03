@@ -1,0 +1,3 @@
+ntp server 8.8.8.8
+ntp server 85.199.214.221
+ntp server 85.199.214.222 prefer
