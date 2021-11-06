@@ -6,5 +6,5 @@
 
 This program is used to make global configuration changes to Cisco ISO. 
 
-The Cisco Global Configuration Automator requires a local host file and a local configuration file to use for detection and then correction of missing polices or common errors.
+The Cisco Global Configuration Automator requires a local host file and a local configuration file, both used for detection and then correction of missing polices or common errors.
 
